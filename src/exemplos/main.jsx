@@ -5,7 +5,6 @@ import {
 import CardHeader from '../utils/cardHeader';
 import Footer from '../utils/footer';
 import CardTelegramBot from './bot-py';
-import Minesweeper from '../jogos/campominado';
 
 const Exemplos = () => {
   return (
