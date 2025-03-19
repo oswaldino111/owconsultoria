@@ -42,7 +42,6 @@ function CardResumo() {
     <Box
       sx={{
         marginRight: 5,
-        borderRadius: 5,
         boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.1)', // Sombra mais suave
         borderRadius: 3, // Bordas menos arredondadas
         height: { xs: 'auto', md: '560px' }, // Altura responsiva

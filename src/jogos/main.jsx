@@ -5,7 +5,6 @@ import {
 import CardHeader from '../utils/cardHeader';
 import Footer from '../utils/footer';
 import Minesweeper from '../jogos/campominado';
-import Jump from './jump';
 
 const Jogos = () => {
   return (
